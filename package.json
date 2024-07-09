@@ -3,5 +3,8 @@
   "dependencies": {
     "node-fetch": "^3.3.2",
     "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "vite": "^5.3.3"
   }
 }
